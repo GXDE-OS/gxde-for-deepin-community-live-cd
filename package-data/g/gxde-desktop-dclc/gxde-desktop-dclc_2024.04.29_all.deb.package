@@ -1,0 +1,23 @@
+Package: gxde-desktop-dclc
+Architecture: all
+Version: 2024.04.29
+Priority: extra
+Section: metapackages
+Source: gxde-dclc
+Maintainer: gfdgd xi <3025613752@qq.com>, LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 8
+Depends: deepin-desktop-base, dde-desktop, dde-dock, dde-control-center (>> 2.90.5), dde-launcher, startdde, dde-session-ui, dde-file-manager, dde-qt5integration, eject, debian-dde-wallpapers, fonts-noto, dde-kwin, gxde-default-settings
+Recommends: gksu, deepin-system-monitor, pppoe, gvfs-fuse, libsane-hpaio, linux-firmware, wireless-tools, deepin-terminal, libmtp-runtime, open-vm-tools-desktop, open-vm-tools, usbmuxd, ipheth-utils, libimobiledevice-dev, libimobiledevice-utils, dnsutils, libfile-mimeinfo-perl, network-manager-integration-plugins, libtxc-dxtn-s2tc0 | libtxc-dxtn-s2tc, libflashplugin-pepper, miraclecast, x-display-manager, deepin-screen-recorder, warm-sched
+Conflicts: dde-control-center (<< 2.90.5), deepin-desktop-environment-desktop, deepin-desktop-environment-dock, deepin-desktop-environment-launcher, libdframeworkdbus2 (>> 15)
+Filename: ./g/gxde-desktop-dclc/gxde-desktop-dclc_2024.04.29_all.deb
+Size: 2468
+MD5sum: f9a270a4e6afcd6113801aa144011c76
+SHA1: 82a8267801215b035262dfd843075ca9692ee665
+SHA256: 070ec55f1c89dc9ecab422042bc142678d41c461f8d238f5be8b18c01b4ed65a
+SHA512: d91be7023faa5305947dbe1680ec43383507406778b133d6132c5c2baa570c18095e3fba33fd2a14b6985571902f513707f182f5de32d160e799039a14a3d8ca
+Homepage: http://www.gfdgdxi.top
+Description: GXDE New Desktop Environment For Deepin Community Live CD - Next
+ This is a meta package depends GXDE New Desktop Envrionment.
+ .
+ You can safety remove it after installed.
+

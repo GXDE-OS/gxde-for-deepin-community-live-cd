@@ -1,0 +1,18 @@
+Package: pardus-boot-repair
+Architecture: all
+Version: 0.5.2
+Priority: optional
+Section: utils
+Maintainer: Ali Riza KESKIN <ali.riza.keskin@pardus.org.tr>
+Installed-Size: 85
+Depends: libc6, live-boot, zenity, zip
+Filename: ./p/pardus-boot-repair/pardus-boot-repair_0.5.2_all.deb
+Size: 13936
+MD5sum: 620cf87dc4f5387d8242c578d494afdb
+SHA1: 2daf9fcd80265a4b9a51202f56be8c1b85734fe3
+SHA256: 10de058909aee523aab34a93428f2d5a77d7866c57190e21b88ef997c0db2611
+SHA512: 3dacbe163052600786d575e5ae281cc564a1c0aa5f0898c7c703583665db56c3f6c116303c0f937f94eff607c2084494757d49e208a183c7c0bdd07bfb29d472
+Homepage: https://pardus.org.tr
+Description: Pardus boot repair
+ Pardus boot repair tool
+

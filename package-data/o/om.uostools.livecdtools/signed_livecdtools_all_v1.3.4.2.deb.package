@@ -1,0 +1,15 @@
+Package: com.uostools.livecdtools
+Architecture: all
+Version: 1.3.4
+Priority: standard
+Section: system
+Maintainer: livecdtools<uostools.com>
+Filename: ./o/om.uostools.livecdtools/signed_livecdtools_all_v1.3.4.2.deb
+Size: 15258916
+MD5sum: 4174e184a6f8bb5bb730568c0901584a
+SHA1: 70fcf7ec7b4b0368ee8c9cee32a58641895533fe
+SHA256: 7169e811dc44425a2625225fab759fa134e2960c273c4a245fb10ca1e998db1c
+SHA512: 6dbb00cc904b46fa5c180f0e8a156bcf20dda7b58c9ed695de899577e4277e038c7ae1851ed5cd994be1a50d516511f4a396613ac6fb1b604086a32940984343
+Homepage: www.uostools.com
+Description: uos-livecd工具
+

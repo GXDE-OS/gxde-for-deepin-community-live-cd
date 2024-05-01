@@ -1,0 +1,25 @@
+Package: com.oray.sunlogin.client
+Architecture: amd64
+Version: 15.2.0.63062
+Priority: extra
+Section: Internet
+Maintainer: Oray <dev@oray.com>
+Installed-Size: 38100
+Depends: deepin-elf-verify (>= 0.0.16.7-1), libappindicator3-1
+Recommends: libwebkit2gtk-4.0.37,libwebkitgtk-3.0-0
+Filename: ./c/com.oray.sunlogin.client/com.oray.sunlogin.client_15.2.0.63062_amd64.deb
+Size: 80940808
+MD5sum: 72bf29f4905d7937b9eaff40f45506c9
+SHA1: b6ac71058343f52c7f99952c4dbe662d5fd852bb
+SHA256: a4b8a6999667445c7ce9122f23a20d22ae7116c4ae0ed4be424a2d029dea0b28
+SHA512: b082484878ebd4168cb6a7c8b7e07ca2317718eef942048d987c2c5106a032cba6d19a0e6c983d3361682d6e481d544e0f3eb9ce85c74391a3fc9b0a5c2fed0b
+Homepage: https://www.oray.com
+Description: SunloginClient-11.0.1.44968 for Linux
+ Sunlogin Remote Control is a software that supports remote control of mobile
+ devices, Windows, Mac, Linux and other systems. It is the best choice for IT
+ technology, game players, designers and other people with remote management
+ needs. By using Sunlogin, you can control other computers or mobile phones
+ anytime, anywhere. You can make things feasible, including remote high-risk
+ operations, remote power on/off, download files, AFK, and so on. Download
+ Sunlogin and explore more exciting features!
+

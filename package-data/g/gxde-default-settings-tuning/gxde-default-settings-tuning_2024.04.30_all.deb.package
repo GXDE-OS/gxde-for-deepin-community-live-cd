@@ -1,0 +1,22 @@
+Package: gxde-default-settings-tuning
+Architecture: all
+Version: 2024.04.30
+Priority: optional
+Section: admin
+Source: gxde-default-settings
+Maintainer: gfdgd xi <3025613752@qq.com>, sysdev <sysdev@deepin.com>
+Installed-Size: 37209
+Conflicts: deepin-default-settings-tuning
+Replaces: deepin-default-settings
+Filename: ./g/gxde-default-settings-tuning/gxde-default-settings-tuning_2024.04.30_all.deb
+Size: 10644648
+MD5sum: 4f20c64b5b9122e62644ab05afbdc38e
+SHA1: 72c66104fe1911785b8be91abb1feb6e4161c5ba
+SHA256: 1f1b5b9f7ca60f7b5121ab9a3143059c5ca0784ca1bc68109686360ec55639cb
+SHA512: fb6745f09c1047a737d7f7adce635b48786d7627280a839fd300368227ce1358c207e42145ab9209e6c96596687879e3906158e0f65ad9e72158d4cb8cc0ca73
+Description: default settings for gxde destkop environment - misc overrides
+ This package does tweaking and to provide better experience of gxde desktop
+ environment.
+ .
+ This package includes files to override cups default page and fcitx icon.
+

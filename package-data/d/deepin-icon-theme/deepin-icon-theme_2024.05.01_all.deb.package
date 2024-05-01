@@ -1,0 +1,17 @@
+Package: deepin-icon-theme
+Architecture: all
+Version: 2024.05.01
+Priority: optional
+Section: x11
+Maintainer: gfdgd xi <3025613752@qq.com>, Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 34178
+Conflicts: deepin-cursor-theme
+Filename: ./d/deepin-icon-theme/deepin-icon-theme_2024.05.01_all.deb
+Size: 5882220
+MD5sum: 02ab648c66bd381ce458e1c5cb1e2c48
+SHA1: bf4d4dd8d5d70fdb083844d492cb6750156b4918
+SHA256: ac1b40ff4ad9aae3f4bd34b06e069329bc0b33d90a246e49de4cc5cb8135fb6d
+SHA512: 82494e0758b5b4b45cd16dfd28d8c37144d7bfadb2d95e6c0fe0e2e24f5ee577a2cfec66f4db778a03420963fd9f4efb010018c6a273ef4dff3b025259c1a133
+Description: Deepin Icons For Deepin Community Live CD
+ This package is DeepinIconTheme
+

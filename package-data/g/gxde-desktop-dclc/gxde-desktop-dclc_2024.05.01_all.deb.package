@@ -1,0 +1,23 @@
+Package: gxde-desktop-dclc
+Architecture: all
+Version: 2024.05.01
+Priority: extra
+Section: metapackages
+Source: gxde-dclc
+Maintainer: gfdgd xi <3025613752@qq.com>, LinuxDeepin Project <linuxdeepin@linuxdeepin.com>
+Installed-Size: 8
+Depends: deepin-desktop-base, dde-desktop, dde-dock, dde-control-center (>> 2.90.5), dde-launcher, startdde, dde-session-ui, dde-file-manager, dde-qt5integration, eject, gxde-wallpapers, fonts-noto, dde-kwin, gxde-default-settings, gparted, firefox-esr, grub-customizer, tigervnc-viewer, openssh-server, spark-store-console, timeshift, fcitx5-pinyin, pardus-boot-repair, file-roller, gedit, fcitx5, com.uostools.livecdtools, bleachbit
+Recommends: gksu, deepin-system-monitor, pppoe, gvfs-fuse, libsane-hpaio, linux-firmware, wireless-tools, deepin-terminal, libmtp-runtime, open-vm-tools-desktop, open-vm-tools, usbmuxd, ipheth-utils, libimobiledevice-dev, libimobiledevice-utils, dnsutils, libfile-mimeinfo-perl, network-manager-integration-plugins, libtxc-dxtn-s2tc0 | libtxc-dxtn-s2tc, libflashplugin-pepper, miraclecast, x-display-manager, deepin-screen-recorder, warm-sched, boot-repair, ghost:i386, com.oray.sunlogin.client
+Conflicts: dde-control-center (<< 2.90.5), deepin-desktop-environment-desktop, deepin-desktop-environment-dock, deepin-desktop-environment-launcher, libdframeworkdbus2 (>> 15)
+Filename: ./g/gxde-desktop-dclc/gxde-desktop-dclc_2024.05.01_all.deb
+Size: 2648
+MD5sum: 5b406e90c949ddcbae4912c426821b25
+SHA1: 6aa3da5336e5550515f9827c12b27a8c55915711
+SHA256: 3d0c75f7d35b749b8204c62344de28dcad27e042555bdd07d3a9e8a17cabcec1
+SHA512: 9f195ee7e709cc6172f2d26e1e16658a491b9e63816684fe2f0ee5892c3ad41e156f1e140f8e6c0e5eaec630db9285ea99f2c979221f320be51bd583c7a626f1
+Homepage: http://www.gfdgdxi.top
+Description: GXDE New Desktop Environment For Deepin Community Live CD - Next
+ This is a meta package depends GXDE New Desktop Envrionment.
+ .
+ You can safety remove it after installed.
+

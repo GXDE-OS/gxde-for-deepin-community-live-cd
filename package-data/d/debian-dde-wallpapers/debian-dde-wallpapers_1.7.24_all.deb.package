@@ -1,0 +1,16 @@
+Package: debian-dde-wallpapers
+Architecture: all
+Version: 1.7.24
+Priority: optional
+Section: oldlibs
+Maintainer: gfdgd xi <3025613752@qq.com>
+Depends: gxde-wallpapers
+Filename: ./d/debian-dde-wallpapers/debian-dde-wallpapers_1.7.24_all.deb
+Size: 756
+MD5sum: 7d3b57ccebe15e1296f921ae33b9e79f
+SHA1: 2b2cd01d22b365529d0636b1e8e355f5471fe1b2
+SHA256: 759b22b5689aa060a258a445c35094d4de0ecfcc1e7247a05888a72cc9154865
+SHA512: 82e919b9e92fcddda908cf0926a4a73effef05b3427cd7d070be5115be9f58e6e85fe7dfe7c0ab749e0ab89491ec08415a681c1bb5d62b9ebe4390c6aed61a29
+Homepage: https://gitee.com/GXDE-OS
+Description: GXDE 壁纸过渡包
+
